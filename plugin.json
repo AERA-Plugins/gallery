@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "id": "gallery",
+  "name": "AERA Gallery",
+  "version": "1.0.0",
+  "description": "Fast recovery gallery for PNG and JPEG images, AERA screenshots, fullscreen viewing, zoom and pan.",
+  "type": "app-runtime",
+  "entry": "gallery",
+  "min_host_api": 1,
+  "payload": "runtime.xz",
+  "payload_url": "https://github.com/AERA-Plugins/gallery/releases/download/v1.0.0/runtime.xz",
+  "payload_size": 144,
+  "payload_sha256": "7cb29da236733b9517eab2bea5c8c5bd85695b7db3a9f3e3b28d45ad3d97286d",
+  "expanded_size": 99,
+  "expanded_sha256": "81045a7bd8ab7b94ffbfbe2d09109a1c20b6616feacde7739b8f4ce4234a95cd",
+  "member_count": 1,
+  "permissions": ["display", "touch-input", "read-only-storage"]
+}
