@@ -2,8 +2,8 @@
   "schema": 1,
   "id": "gallery",
   "name": "AERA Gallery",
-  "version": "1.1.0",
-  "description": "Fast recovery gallery for PNG and JPEG images, AERA screenshots, fullscreen viewing, zoom and pan.",
+  "version": "1.1.1",
+  "description": "View images and AERA screenshots with zoom and pan (PNG/JPEG).",
   "type": "app-runtime",
   "entry": "gallery",
   "min_host_api": 1,
@@ -22,127 +22,131 @@
   "localizations": {
     "ar_SA": {
       "name": "AERA Gallery",
-      "description": "معرض الاسترداد السريع لصور PNG و JPEG، لقطات الشاشة AERA، العرض بملء الشاشة، التكبير والتصغير والتنقل."
+      "description": "عرض الصور ولقطات شاشة AERA مع التكبير/التصغير والتحريك (PNG/JPEG)."
     },
     "bg_BG": {
       "name": "AERA Gallery",
-      "description": "Бърза галерия за възстановяване на изображения PNG и JPEG, скрийншотове AERA, пълен екран за гледане, увеличение и панорамиране."
+      "description": "Преглеждайте изображения и AERA екранни снимки с увеличение и панорама (PNG/JPEG)."
     },
     "bn_BD": {
       "name": "AERA Gallery",
-      "description": "PNG এবং JPEG চিত্র, AERA স্ক্রিনশট, সম্পূর্ণ পর্দায় দেখার, জুম এবং প্যানের জন্য দ্রুত পুনরুদ্ধার গ্যালারি।"
+      "description": "জুম এবং প্যান সহ ছবি এবং AERA স্ক্রিনশট দেখুন (PNG/JPEG)।"
     },
     "ca_ES": {
       "name": "AERA Gallery",
-      "description": "Galeria de recuperació ràpida per a imatges PNG i JPEG, captures de pantalla AERA, visualització en pantalla completa, zoom i desplaçament."
+      "description": "Visualitza imatges i captures de pantalla de AERA amb zoom i panoràmica (PNG/JPEG)."
     },
     "cs_CZ": {
       "name": "AERA Gallery",
-      "description": "Rychlá galerie obnovy pro obrázky PNG a JPEG, snímky obrazovky AERA, zobrazení na celou obrazovku, přibližování a posouvání."
+      "description": "Prohlížejte obrázky a snímky obrazovky AERA s přiblížením a posunem (PNG/JPEG)."
     },
     "de_DE": {
       "name": "AERA Gallery",
-      "description": "Schnelle Wiederherstellungsgalerie für PNG- und JPEG-Bilder, AERA-Screenshots, Vollbildanzeige, Zoomen und Verschieben."
+      "description": "Bilder und AERA-Screenshots zoomen und verschieben (PNG/JPEG)."
     },
     "el_GR": {
       "name": "AERA Gallery",
-      "description": "Γρήγορη ανάκτηση γκαλερί για εικόνες PNG και JPEG, στιγμιότυπα οθόνης AERA, προβολή πλήρους οθόνης, μεγέθυνση και μετακίνηση."
+      "description": "Προβολή εικόνων και στιγμιότυπων οθόνης AERA με ζουμ και μετατόπιση (PNG/JPEG)."
     },
     "es-ES": {
       "name": "AERA Gallery",
-      "description": "Galería de recuperación rápida para imágenes PNG y JPEG, capturas de pantalla AERA, visualización en pantalla completa, zoom y desplazamiento."
+      "description": "Vea imágenes y capturas de pantalla de AERA con zoom y panorámica (PNG/JPEG)."
     },
     "fa_IR": {
       "name": "AERA Gallery",
-      "description": "گالری بازیابی سریع برای تصاویر PNG و JPEG، اسکرین‌شات AERA، مشاهده تمام صفحه، بزرگ‌نمایی و جابجایی."
+      "description": "مشاهده تصاویر و اسکرین شات های AERA با زوم و حرکت (PNGZ/JPEG)."
     },
     "fr_FR": {
       "name": "AERA Gallery",
-      "description": "Galerie de récupération rapide pour les images PNG et JPEG, les captures d'écran AERA, affichage plein écran, zoom et déplacement."
+      "description": "Affichez les images et les captures d'écran de AERA avec zoom et panoramique (PNG/JPEG)."
     },
     "he_IL": {
       "name": "AERA Gallery",
-      "description": "גלריית שחזור מהירה עבור PNG ו-JPEG תמונות, AERA צילומי מסך, צפייה במסך מלא, זום וגרירה."
+      "description": "צפה בתמונות ובצילומי מסך של AERA עם זום ותנועה (PNG/JPEG)."
     },
     "hi_IN": {
       "name": "AERA Gallery",
-      "description": "PNG और JPEG इमेजेज़, AERA स्क्रीनशॉट्स के लिए तेज़ रिकवरी गैलरी, फुलस्क्रीन देखने, ज़ूम और पैन।"
+      "description": "ज़ूम और पैन (PNG/JPEG) के साथ छवियां और AERA स्क्रीनशॉट देखें।"
     },
     "hu": {
       "name": "AERA Gallery",
-      "description": "Gyors helyreállító galéria PNG és JPEG képekhez, AERA képernyőmentésekhez, teljes képernyős megtekintéshez, nagyításhoz és mozgatáshoz."
+      "description": "Tekintse meg a képeket és a AERA képernyőképeket nagyítással és pásztázással (PNG/JPEG)."
     },
     "id_ID": {
       "name": "AERA Gallery",
-      "description": "Galeri pemulihan cepat untuk gambar PNG dan JPEG, tangkapan layar AERA, tampilan layar penuh, zoom dan geser."
+      "description": "Lihat gambar dan tangkapan layar AERA dengan zoom dan geser (PNG/JPEG)."
     },
     "it_IT": {
       "name": "AERA Gallery",
-      "description": "Galleria di recupero veloce per immagini PNG e JPEG, screenshot AERA, visualizzazione a schermo intero, zoom e panoramica."
+      "description": "Visualizza immagini e screenshot AERA con zoom e panoramica (PNG/JPEG)."
     },
     "ja_JP": {
       "name": "AERA Gallery",
-      "description": "PNGおよびJPEGの画像、AERAのスクリーンショットの高速回復ギャラリー、全画面表示、ズームおよびパン。"
+      "description": "ズームとパンを使用して画像と AERA のスクリーンショットを表示します (PNGXXQAERA2TOKENXZ)。"
     },
     "ko_KR": {
       "name": "AERA Gallery",
-      "description": "PNG 및 JPEG 이미지, AERA 스크린샷, 전체 화면 보기, 확대/축소 및 팬 기능을 위한 빠른 복구 갤러리"
+      "description": "확대/축소 및 이동(PNG/JPEG)을 사용하여 이미지와 AERA 스크린샷을 봅니다."
     },
     "nl_NL": {
       "name": "AERA Gallery",
-      "description": "Snelle herstelgalerij voor PNG en JPEG afbeeldingen, AERA schermafbeeldingen, volledig scherm bekijken, in- en uitzoomen en verplaatsen."
+      "description": "Bekijk afbeeldingen en AERA-screenshots met zoom en pan (PNG/JPEG)."
     },
     "no_NO": {
       "name": "AERA Gallery",
-      "description": "Rask gjenopprettingsgalleri for PNG og JPEG bilder, AERA skjermbilder, fullskjermvisning, zoom og panorering."
+      "description": "Se bilder og AERA-skjermbilder med zoom og panorering (PNG/JPEG)."
     },
     "pl_PL": {
       "name": "AERA Gallery",
-      "description": "Szybka galeria odzyskiwania dla obrazów PNG i JPEG, zrzutów ekranu AERA, tryb pełnoekranowy, powiększanie i przesuwanie."
+      "description": "Przeglądaj obrazy i zrzuty ekranu AERA z funkcją powiększania i przesuwania (PNG/JPEG)."
     },
     "pt_BR": {
       "name": "AERA Gallery",
-      "description": "Galeria de recuperação rápida para imagens PNG e JPEG, capturas de tela AERA, visualização em tela cheia, zoom e panorâmica."
+      "description": "Veja imagens e capturas de tela de AERA com zoom e panorâmica (PNG/JPEG)."
     },
     "pt_PT": {
       "name": "AERA Gallery",
-      "description": "Galeria de recuperação rápida para imagens PNG e JPEG, capturas de ecrã AERA, visualização em ecrã inteiro, zoom e deslocamento."
+      "description": "Veja imagens e screenshots de AERA com zoom e panorâmica (PNG/JPEG)."
     },
     "ro_RO": {
       "name": "AERA Gallery",
-      "description": "Galerie de recuperare rapidă pentru imaginile PNG și JPEG, capturi de ecran AERA, vizualizare pe ecran complet, mărire și pan."
+      "description": "Vizualizați imagini și capturi de ecran AERA cu zoom și pan (PNG/JPEG)."
     },
     "ru": {
       "name": "AERA Gallery",
-      "description": "Галерея быстрого восстановления для изображений PNG и JPEG, скриншотов AERA, полноэкранный просмотр, увеличение и перемещение."
+      "description": "Просматривайте изображения и снимки экрана AERA с масштабированием и панорамированием (PNG/JPEG)."
     },
     "sr_Cyrl": {
       "name": "AERA Gallery",
-      "description": "Галерија за брзо враћање за слике PNG и JPEG, снимке екрана AERA, приказ преко целог екрана, увеличавање и померање."
+      "description": "Погледајте слике и AERA снимке екрана са зумирањем и померањем (PNG/JPEG)."
+    },
+    "sv_SE": {
+      "name": "AERA Gallery",
+      "description": "Visa bilder och AERA-skärmbilder med zoom (PNG/JPEG)."
     },
     "th_TH": {
       "name": "AERA Gallery",
-      "description": "แกลเลอรีการกู้คืนอย่างรวดเร็วสำหรับภาพ PNG และ JPEG, ภาพหน้าจอ AERA, การรับชมแบบเต็มหน้าจอ, การซูมและเลื่อน"
+      "description": "ดูภาพและภาพหน้าจอ AERA พร้อมซูมและแพน (PNG/JPEG)"
     },
     "tr_TR": {
       "name": "AERA Gallery",
-      "description": "PNG ve JPEG resimleri, AERA ekran görüntüleri için hızlı kurtarma galerisi, tam ekran görüntüleme, yakınlaştırma ve kaydırma."
+      "description": "Görüntüleri ve AERA ekran görüntülerini yakınlaştırma ve kaydırma (PNG/JPEG) ile görüntüleyin."
     },
     "uk_UA": {
       "name": "AERA Gallery",
-      "description": "Галерея швидкого відновлення для зображень PNG і JPEG, скріншотів AERA, перегляд на весь екран, збільшення та панорамування."
+      "description": "Переглядайте зображення та знімки екрана AERA із масштабуванням і панорамуванням (PNG/JPEG)."
     },
     "vi_VN": {
       "name": "AERA Gallery",
-      "description": "Thư viện khôi phục nhanh cho hình ảnh PNG và JPEG, ảnh chụp màn hình AERA, xem toàn màn hình, phóng to và di chuyển."
+      "description": "Xem hình ảnh và ảnh chụp màn hình AERA bằng tính năng thu phóng và xoay (PNG/JPEG)."
     },
     "zh_CN": {
       "name": "AERA Gallery",
-      "description": "用于 PNG 和 JPEG 图片、AERA 截图的快速恢复图库，全屏查看，缩放和平移。"
+      "description": "通过缩放和平移查看图像和 AERA 屏幕截图 (PNG/JPEG)。"
     },
     "zh_TW": {
       "name": "AERA Gallery",
-      "description": "PNG 和 JPEG 圖像、AERA 截圖的快速恢復畫廊，全螢幕檢視，縮放和平移。"
+      "description": "透過縮放和平移查看影像和 AERA 螢幕截圖 (PNG/JPEG)。"
     }
   }
 }
